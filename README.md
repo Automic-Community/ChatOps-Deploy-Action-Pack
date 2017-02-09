@@ -19,7 +19,11 @@ Documenation and Instructions
 
 <p>Deploy the ChatOps for<a href="https://marketplace.automic.com/details/chatops-for-automic-release-automation" target="_blank"> Automic Release Automation Community Project</a> using a single action.</p>
 <p>Downloads all required dependencies and installs and configures Hubot with Slack, Campfire, HipChat, Telegram, or Gitter.</p>
-<p>&nbsp;</p>
+<p>Includes following actions:</p>
+<ul>
+<li>Install ChatOps Bot</li>
+<li>Uninstall ChatOps Bot</li>
+</ul>
 
 Copyright and License
 ---
