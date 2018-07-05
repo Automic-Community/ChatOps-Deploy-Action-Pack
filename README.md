@@ -2,7 +2,7 @@
 =============
 
 
-Easily deploy ChatOps for Automic Release Automation
+Easily deploy ChatOps for CA Continuous Delivery Automation
 http://github.com/Automic-Community/ChatOps-Deploy-Action-Pack
 
 <!-- List of attached files -->
@@ -17,7 +17,7 @@ Contents of Solution Package:
 Documenation and Instructions
 ---
 
-<p>Deploy the ChatOps for<a href="https://marketplace.automic.com/details/chatops-for-automic-release-automation" target="_blank"> Automic Release Automation Community Project</a> using a single action.</p>
+<p>Deploy the ChatOps for <a href="https://marketplace.automic.com/details/chatops-for-automic-release-automation" target="_blank">CA Continuous Delivery Automation Community Project</a> using a single action.</p>
 <p>Downloads all required dependencies and installs and configures Hubot with Slack, Campfire, HipChat, Telegram, or Gitter.</p>
 <p>Includes following actions:</p>
 <ul>
